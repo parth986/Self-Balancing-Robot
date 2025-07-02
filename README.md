@@ -1,2 +1,2 @@
 # Self-Balancing-Robot
-The self-balancing robot is an automated vehicle that balances itself without any outside help or support. This project is a rather complex one as it involves using PID Control and involuted programming.
+An Arduino-based project that maintains its balance automatically using sensors and motors. It uses PID control and complex programming to stabilize itself without external support.
